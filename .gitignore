@@ -1,0 +1,7 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+irrigation_model.pkl
+.streamlit/secrets.toml
